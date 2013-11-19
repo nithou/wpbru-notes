@@ -3,6 +3,7 @@
 ## Paycento
 
 **URL** : http://www.paycento.com
+
 **Speaker** : (Pieter Dubois (Founder)) // Gilbert West
 
 **Social networks log-in** (65% dropout on usual checkout due to too many informations to fill in). For payements **up to 25€** (not more). Virtual wallet. 
@@ -64,6 +65,24 @@ Use Google Webmaster Tools, Bing Submit Tool, Yahoo submitting tool, [dmoz.org](
 [MajesticSEO.com](http://www.majesticseo.com/) : gives an overview of your back-link profile ([ahrefs.com](http://ahrefs.com) does the same).
 
 Don't abuse of the keywords, too much use of the keyword will damage your website.
+
+### SocialFlow
+
+[SocialFlow](http://www.socialflow.com/solutions) provides a lot of tools concerning the social medias that help building your audience.
+
+## Website Critic
+
+**URL** : http://onthegowithzeppi.com
+
+- Why not provide an **image above the fold** ? (as there's a lot of content)
+- The menu is **taking a lot of space**, would it be possible to reduce it ?
+- Perhaps a button on the sidebar linking to the Amazon Marketplace would provide a better **call to action**, more direct and clear
+- Replace the **links with images-buttons CTA** ? (Apple links, Amazon, ...). Some plugins can do this pretty well :) (or you can simply use the marketplace button generators).
+
+**URL** : http://www.ombres-et-lumieres.eu/
+
+
+
 
 
 

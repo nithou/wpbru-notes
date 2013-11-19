@@ -51,7 +51,7 @@ Different tools allows you to build your keywords :
 - **Market Samurai** : gives more details but slower but allow to have a weekly ranking overview.
 - ...
 
-*Page Rank* has been deprecated in favor of **Page Authority**, defined by [Moz](http://moz.com/learn/seo/page-authority) (the lower, the better (less paid), a P.A. around 25-30 is the best "value").
+*Page Rank* has been deprecated for **Page Authority**, defined by [Moz](http://moz.com/learn/seo/page-authority) (the lower, the better (less paid), a P.A. around 25-30 is the best "value").
 
 ### Backlinks
 

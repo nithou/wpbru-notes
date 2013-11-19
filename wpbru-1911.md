@@ -60,7 +60,7 @@ Different tools allows you to build your keywords :
 
 ### Adding your site to search engines
 
-Use Google Webmaster Tools, Bing Submit Tool, Yahoo submitting tool, [dmoz.org](http://www.dmoz.org/) (high quality backlinck, but manual and if done correctly), ...
+Use Google Webmaster Tools, Bing Submit Tool, Yahoo submitting tool, [dmoz.org](http://www.dmoz.org/) (high quality backlinck, but manual and if done correctly), ... Receiving a link from an *.edu website gives a big impact on your ranking (academical).
 
 [MajesticSEO.com](http://www.majesticseo.com/) : gives an overview of your back-link profile ([ahrefs.com](http://ahrefs.com) does the same).
 
@@ -81,6 +81,8 @@ Don't abuse of the keywords, too much use of the keyword will damage your websit
 
 **URL** : http://www.ombres-et-lumieres.eu/
 
+- The **3 bars / Hamburger** menu becomes recognized as a symbol for menu, why not using it ? Avoid hiding the major part of your navigation :)
+- Increase the **thumbnail size**, at the actual size you can't see before clicking on it.
 
 
 

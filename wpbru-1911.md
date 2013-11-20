@@ -22,6 +22,8 @@ It is extremely usable, provides a lot of flexibility (staircase model, 1 week f
 
 **Speaker** : @chrissmit (christ@InternetBusinessQuestions.com)
 
+**Slides** : [Available here](http://internetbusinessquestions.com/absolutely-necessary-free-internet-business-resources/)
+
 Google owns 73% of the Search market (for the USA), it's bigger in Belgium (80-90%). 
 
 Google use **multiple parameters** to rank a site :
